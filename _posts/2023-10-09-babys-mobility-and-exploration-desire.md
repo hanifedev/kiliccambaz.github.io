@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Baby's Mobility and Exploration Desire: A Normal Developmental Phase"
