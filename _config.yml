@@ -3,6 +3,7 @@ name: 'HappyMothersLand'
 description: 'Caring, Sharing, and Growing with Your Baby'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
+url: https://www.happymothersland.com
 baseurl: ''
 disqus: 'demowebsite'
 email: 'hanifekiliccambaz@gmail.com'
