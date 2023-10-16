@@ -3,7 +3,7 @@ layout: post
 title:  "The Benefits of Avocado for Babies"
 author: admin
 categories: [ Baby Nutrition ]
-image: assets/images/avocado-for-babies.png
+image: assets/images/avacado-for-babies.jpg
 tags: [Avocado for Infants, When to Introduce Avocado to Babies, Avocado Nutritional Benefits, Avocado as First Solid Food, Healthy Fats for Baby, Avocado and Brain Development, Avocado for Digestion, Avocado as a Fiber-Rich Food, Avocado's Antioxidant Properties, Avocado for Liver Health, Selecting Ripe Avocados for Babies]
 ---
 
