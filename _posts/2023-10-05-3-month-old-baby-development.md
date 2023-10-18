@@ -4,7 +4,7 @@ title:  "3-Month-Old Baby: Milestones and Development"
 author: admin
 categories: [ Baby Development ]
 image: assets/images/3-month-old-baby-with-toys.png
-tags: [3-Month-Old Baby Milestones, 3-Month-Old Baby Care Tips, Infant Development at 3 Month, Baby Reflexes at 3 Month, 3-Month-Old Baby Growth Chart, 3-Month-Old Baby Feeding Schedule, Baby's First Month of Life, Newborn Sensory Development, Cognitive Development in Infants, Sleep Patterns of a 3-Month-Old Baby, Parenting a 3-Month-Old Baby, Baby Developmental Milestones Month by Month, 3-Month-Old Baby Health and Nutrition, Bonding with Your 3-Month-Old, 3-Month-Old Baby Sleep Tips]
+tags: [3-Month-Old Baby Milestones, 3-Month-Old Baby Care Tips, Infant Development at 3 Month, Baby Reflexes at 3 Month, 3-Month-Old Baby Growth Chart, 3-Month-Old Baby Feeding Schedule, Baby's First Month of Life, Newborn Sensory Development, Cognitive Development in Infants, Sleep Patterns of a 3-Month-Old Baby, Parenting a 3-Month-Old Baby, Baby Developmental Milestones Month by Month, 3-Month-Old Baby Health and Nutrition, Bonding with Your 3-Month-Old, 3-Month-Old Baby Sleep Tips, featured]
 ---
 
 # 3 Month Old Baby Development

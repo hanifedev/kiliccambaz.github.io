@@ -4,7 +4,7 @@ title:  "2-Month-Old Baby: Milestones and Development"
 author: admin
 categories: [ Baby Development ]
 image: assets/images/2-month-old-baby.png
-tags: [2-Month-Old Baby Milestones, 2-Month-Old Baby Care Tips, Infant Development at 2 Month, Baby Reflexes at 2 Month, 2-Month-Old Baby Growth Chart, 2-Month-Old Baby Feeding Schedule, Baby's First Month of Life, Newborn Sensory Development, Cognitive Development in Infants, Sleep Patterns of a 2-Month-Old Baby, Parenting a 2-Month-Old Baby, Baby Developmental Milestones Month by Month, 2-Month-Old Baby Health and Nutrition, Bonding with Your 2-Month-Old, 2-Month-Old Baby Sleep Tips]
+tags: [2-Month-Old Baby Milestones, 2-Month-Old Baby Care Tips, Infant Development at 2 Month, Baby Reflexes at 2 Month, 2-Month-Old Baby Growth Chart, 2-Month-Old Baby Feeding Schedule, Baby's First Month of Life, Newborn Sensory Development, Cognitive Development in Infants, Sleep Patterns of a 2-Month-Old Baby, Parenting a 2-Month-Old Baby, Baby Developmental Milestones Month by Month, 2-Month-Old Baby Health and Nutrition, Bonding with Your 2-Month-Old, 2-Month-Old Baby Sleep Tips, featured]
 ---
 
 # Development of a 2-Month-Old Baby
