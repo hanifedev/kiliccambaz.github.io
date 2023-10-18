@@ -34,7 +34,7 @@ authors:
     admin:
       name:           Admin
       site:           https://www.happymothersland.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         https://www.happymothersland.com/assets/images/avatar1.jpg
       bio:            "Hi, I am Hanife, the author of HappyMothersLand!"
       email:          hanifekiliccambaz@gmail.com
  
@@ -46,8 +46,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Admin
+      avatar: https://www.happymothersland.com/assets/images/avatar1.jpg
       
       
   # all pages
