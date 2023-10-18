@@ -18,11 +18,22 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-compress-images
+
+compress_images:
+  output_path: assets/compressed_images
+  quality: 70
+  jpegoptim:
+    strip: all
+    max_quality: 85
+  optipng:
+    level: 5
+
   
 authors:
     admin:
       name:           Admin
-      site:           https://www.wowthemes.net
+      site:           https://www.happymothersland.com
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Hanife, the author of HappyMothersLand!"
       email:          hanifekiliccambaz@gmail.com
@@ -37,6 +48,7 @@ defaults:
       layout: post
       author: sal
       avatar: /assets/images/avatar1.jpg
+      
       
   # all pages
   - scope:
