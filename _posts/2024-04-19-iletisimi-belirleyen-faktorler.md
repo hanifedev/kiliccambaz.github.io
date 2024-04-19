@@ -31,14 +31,14 @@ Ses tonu, iletişimde duygusal ifadenin önemli bir parçasıdır. Ses tonu, ile
 
 İletişimde beden dili, sözlü iletişimin yanı sıra duyguları ve niyetleri ifade etmenin güçlü bir yoludur. Beden dili, jestler, mimikler, duruş ve fiziksel temas gibi çeşitli unsurlardan oluşur. Beden dili, iletişimi pekiştirebilir ve anlayışı artırabilir.
 
-### Gözler:
+1) **Gözler:**
 
 Gözbebekleri, kişinin duygusal durumunu yansıtabilir. Heyecan veya ilgi arttıkça gözbebekleri genellikle genişler, korku veya endişe durumlarında ise daralır. Göz kenarında kırışıklıklar ise samimiyet düzeyi hakkında ipuçları verebilir. Gülerken veya samimi bir şekilde iletişim kurarken göz kenarında oluşan kırışıklıklar, karşıdaki kişiye samimiyet ve içtenlik hissi verebilir.
 
-### Eller ve Kollar:
+2) **Eller ve Kollar:**
 
 Ellerin konumu, kişinin duygusal durumu ve niyeti hakkında bilgi verebilir. Açık ve dışa dönük eller genellikle samimiyet ve açıklık hissini ifade ederken, kapalı veya içe dönük eller ise savunmacı veya çekingen bir tutumu gösterebilir. Kolların kapatılması, kişinin savunmacı veya uzak durma isteğini ifade edebilirken, açık kollar ise genellikle karşıdaki kişiye açıklık ve samimiyet gösterir.
 
-### Aksesuarlar:
+3) **Aksesuarlar:**
 
 Rozetler veya belirli takılar, kişinin aidiyet duygusunu veya topluluğa ait olduğunu gösterebilir. Kullanılan koku, karşıdaki kişiye duygusal veya psikolojik bir etki yapabilir. Kıyafet markası veya tarzı da kişinin statüsü, tercihleri veya kişilik özellikleri hakkında ipuçları verebilir. Bu unsurlar, beden dilinin karmaşıklığını ve zenginliğini gösterir. İletişimde beden dilini anlamak, karşıdaki kişinin gerçek duygularını ve niyetlerini daha iyi anlamak için önemlidir. Ancak, beden dilinin her zaman net ve tek bir anlamı olmayabilir; kültürel farklılıklar ve bireysel farklılıklar, beden dilinin yorumlanmasını etkileyebilir.
