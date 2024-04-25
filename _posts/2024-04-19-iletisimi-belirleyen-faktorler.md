@@ -15,13 +15,21 @@ tags: [temel iletişim, etkin dinleme]
 
 İletişimdeki mesafe, sadece fiziksel bir uzaklık değil, aynı zamanda duygusal ve psikolojik bir uzaklık olarak da değerlendirilmelidir. Mesafe, iletişimdeki ilişkinin doğasını ve niteliğini belirler. Üç temel mesafe türü vardır:
 
-1) **Özel Mesafe:** 0 ila 50 cm arasında olan mesafe, duygusal bağımız olan veya yakın ilişkilerimiz olan kişiler içindir. Anne, baba, eş, çocuk gibi.
-
-2) **Kişisel Mesafe:** 50 cm ila 1.2 metre arasındaki mesafe, arkadaşlar ve iş ortakları arasındaki resmi olmayan etkileşimler için kullanılır.
-
-3) **Sosyal Mesafe:** 1.2 metre ila 3.6 metre arasındaki mesafe, sosyal etkinliklerde veya kahve molalarında birbirimizle sohbet ederken kullanılır. Bu mesafe içerisindeyken kişisel konulardan konuşulmaz, daha çok iş konularından konuşulur. Özellikle de çok iyi tanımadığımız iş arkadaşları veya müşterilerimizle etkileşimdeyken kullanılır.
-
-4) **Ortak Mesafe:** 3.6 metreden uzak olan mesafeler ise ortak alan olarak bilinir ve genellikle büyük gruplarla kullanılır.
+1) **Özel Alan:**
+- Özel alan, bir kişinin kendisine ait olarak gördüğü fiziksel ve duygusal alandır.
+- Bu alan, kişinin fiziksel olarak en yakın hissettiği insanlarla paylaştığı alandır. Örneğin, aile üyeleri veya en yakın arkadaşlar bu alana dahil olabilir.
+- Bu alana girmek, kişisel ilişkilerin güçlü olduğunu ve güvenin bulunduğunu gösterir.
+- Kişiler, özel alanlarını genellikle korumaya çalışırlar ve bu alana izinsiz girenlerden rahatsızlık duyabilirler.
+2) **Samimi Alan:**
+- Samimi alan, bir kişinin daha rahat hissettiği ancak özel alanı kadar kutsal olmayan bir alanı ifade eder.
+- Bu alan, yakın ilişkilerin dışında olan ancak kişinin tanıdığı veya güvendiği insanlarla paylaştığı bir alandır.
+- Meslektaşlar, komşular veya daha az yakın arkadaşlar bu alana dahil olabilir.
+- Samimi alan, genellikle kişinin fiziksel olarak biraz daha uzak hissettiği insanlarla paylaşılan bir alandır.
+3) **Sosyal Alan:**
+- Sosyal alan, kişinin günlük etkileşimlerde bulunduğu geniş toplum alanını ifade eder.
+- Bu alanda, genellikle iş yerinde, toplu taşıma araçlarında, kamusal alanlarda veya sosyal etkinliklerde bulunan diğer insanlarla etkileşime girilir.
+- Sosyal alan, kişisel uzaklık ve iletişim tercihlerine daha az odaklanır ve daha geniş bir grup insanla olan etkileşimleri kapsar.
+- Bu alanda, iletişim genellikle daha resmi ve yüzeysele yakın olabilir.
 
 ## Ses Tonu:
 
