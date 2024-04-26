@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Özgüven Arttırmanın Yolları"
+title:  "Sesin Gücü: İletişimde Tonun Rolü"
 author: admin
 categories: [ İletişim ]
 image: assets/images/ozguven.jpeg
