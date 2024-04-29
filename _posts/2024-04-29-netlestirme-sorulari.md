@@ -38,15 +38,9 @@ Bu nedenlerden dolayı, etkili iletişimde netleştirme soruları sormak oldukç
 | Sorun                                                     | Netleştirme Sorusu                                                   |
 |-----------------------------------------------------------|----------------------------------------------------------------------|
 | "Ne yapacağımı gerçekten bilmiyorum."                     | Hangi konuda ne yapacağını bilmiyorsun? İş mi, ilişki mi, eğitim mi veya başka bir konu mu?  |
-
 | "Bütün hayallerim yıkıldı."                               | Hangi hayallerin yıkıldığını hissediyorsun? Bu hayallerin yıkılmasına ne sebep oldu?  |
-
 | "Bu harika."                                              | Hangi durum veya olayı harika buluyorsun? Bu durumun senin için neden önemli?  |
-
 | "Bu şekilde devam edemez."                                | Hangi durumun veya davranışın devam etmesini istemiyorsun? Neden bu şekilde devam etmemeli?  |
-
 | "İlişkimizde hızlı ilerliyoruz gibi hissediyorum."        | İlişkinin hızlı ilerlemesi hangi konuda endişe veriyor? Bu hızlı ilerlemenin nedenleri neler olabilir?  |
-
 | "Bugün çok hüzünlüyüm."                                   | Bugünü seni bu kadar hüzünlü kılan ne oldu? Bu duygunun altında yatan sebep ne olabilir?  |
-
 | "Her şeyi yanlış anlıyor."                                | Hangi konularda yanlış anlaşıldığını düşünüyorsun? Bu yanlış anlaşılmanın sebepleri neler olabilir?  |
