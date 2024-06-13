@@ -2,6 +2,7 @@
 layout: post
 title:  "İletişimi Belirleyen Faktörler"
 author: admin
+lang: tr
 categories: [ İletişim ]
 image: assets/images/beden_dili.jpeg
 tags: [temel iletişim, etkin dinleme]

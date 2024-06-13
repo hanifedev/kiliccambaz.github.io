@@ -2,6 +2,7 @@
 layout: post
 title:  "Sesin Gücü: İletişimde Tonun Rolü"
 author: admin
+lang: tr
 categories: [ İletişim ]
 image: assets/images/ozguven.jpeg
 tags: [sesin gücü, iletişimde ses tonu]

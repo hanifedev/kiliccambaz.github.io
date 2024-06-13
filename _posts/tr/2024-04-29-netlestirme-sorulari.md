@@ -2,6 +2,7 @@
 layout: post
 title:  "Etkili İletişimde Netleştirme Sorularının Önemi"
 author: admin
+lang: tr
 categories: [ İletişim ]
 image: assets/images/ozguven.jpeg
 tags: [netleştirme soruları]

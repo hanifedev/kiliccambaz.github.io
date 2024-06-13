@@ -2,6 +2,7 @@
 layout: post
 title:  "Etkin Dinleme: İletişimde Derin Bağlar Kurmanın Anahtarı"
 author: admin
+lang: tr
 categories: [ İletişim ]
 image: assets/images/communication.jpeg
 tags: [temel iletişim, etkin dinleme, sticky]

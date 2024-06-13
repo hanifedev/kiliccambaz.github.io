@@ -2,6 +2,7 @@
 layout: post
 title:  "İletişimi Engelleyen Faktörler"
 author: admin
+lang: tr
 categories: [ İletişim ]
 image: assets/images/ozguven.jpeg
 tags: [iletişimi engelleyen faktörler]

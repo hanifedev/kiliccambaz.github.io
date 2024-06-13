@@ -2,6 +2,7 @@
 layout: post
 title: "0-1 Year Old Baby Activities"
 author: admin
+lang: en
 categories: [Baby Toys]
 image: assets/images/baby-toy.jpg
 tags: [Baby Activities, 1-Month-Old Baby Activities, 2-Month-Old Baby Activities, 3-Month-Old Baby Activities, 4-Month-Old Baby Activities, 5-Month-Old Baby Activities, 6-Month-Old Baby Activities, 7-Month-Old Baby Activities, 8-Month-Old Baby Activities, 9-Month-Old Baby Activities, 10-Month-Old Baby Activities, 11-Month-Old Baby Activities, 12-Month-Old Baby Activities]

@@ -2,6 +2,7 @@
 layout: post
 title: "Development of a 4-Month-Old Baby"
 author: admin
+lang: en
 categories: [Baby Development]
 image: assets/images/4-month-baby.png
 tags: [4-Month-Old Baby Development, Feeding Your 4-Month-Old Baby, Baby's Sleep Schedule, Baby's Growth, Teething in a 4-Month-Old Baby, featured]

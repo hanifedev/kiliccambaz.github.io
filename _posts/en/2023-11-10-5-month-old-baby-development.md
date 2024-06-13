@@ -2,6 +2,7 @@
 layout: post
 title:  "5-Month-Old Baby: Development and Milestones"
 author: admin
+lang: en
 categories: [ Baby Development ]
 image: assets/images/5-month-old-baby.png
 tags: [5-Month-Old Baby Development, 5-Month-Old Baby Growth, Baby's Sensory Development at 5 Months, Baby's Cognitive Development, 5-Month-Old Baby Sleep Patterns, 5-Month-Old Baby Social Development, Baby Care Tips for a 5-Month-Old, 5-Month-Old Baby Feeding Guide, Teething in 5-Month-Olds, 5-Month-Old Baby Milestones, featured ]

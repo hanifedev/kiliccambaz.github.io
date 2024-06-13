@@ -2,6 +2,7 @@
 layout: post
 title:  "Can Pets and Babies Coexist?"
 author: admin
+lang: en
 categories: [ Parenting, Pets ]
 image: assets/images/pets-and-babies.png
 tags: [Benefits of Having Pets, Pets and Child Development, Choosing the Right Pet, Introducing Pets to Babies, Raising Children with Pets, Responsibility of Pet Ownership]

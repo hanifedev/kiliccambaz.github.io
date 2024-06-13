@@ -2,6 +2,7 @@
 layout: post
 title:  "Özgüven Arttırmanın Yolları"
 author: admin
+lang: tr
 categories: [ İletişim ]
 image: assets/images/ozguven.jpeg
 tags: [ozguven, kişisel gelişim]

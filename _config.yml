@@ -12,13 +12,21 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 include: ["_pages"]
 permalink: /:title/
 
-# Plugins
 plugins: 
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
 
+languages:
+  en:
+    name: English
+    prefix: en
+  tr:
+    name: Turkish
+    prefix: tr
+
+default_lang: en
   
 authors:
     admin:

@@ -1,0 +1,11 @@
+<nav class="language-switcher">
+  {% assign current_path = page.url | split: '/' %}
+  {% assign current_lang = current_path[1] %}
+  {% for lang in site.languages %}
+    {% assign lang_code = lang[0] %}
+    {% assign lang_info = lang[1] %}
+    {% if lang_code != current_lang %}
+      <a href="{{ site.baseurl }}/{{ lang_info.prefix }}{{ page.url | remove_first: '/' | remove_first: current_lang }}">{{ lang_info.name }}</a>
+    {% endif %}
+  {% endfor %}
+</nav>

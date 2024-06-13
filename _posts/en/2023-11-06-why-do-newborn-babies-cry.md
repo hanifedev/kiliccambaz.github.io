@@ -2,6 +2,7 @@
 layout: post
 title:  "Why Do Newborn Babies Cry?"
 author: admin
+lang: en
 categories: [ Baby Care ]
 image: assets/images/newborn.png
 tags: [Newborn Baby, Baby Crying, Reasons for Baby Crying, Soothing a Crying Baby, Parenting Tips, Newborn Care]

@@ -2,6 +2,7 @@
 layout: post
 title:  "Daha İyi Bir İletişim İçin 7 Yöntem"
 author: admin
+lang: tr
 categories: [ İletişim ]
 image: assets/images/ozguven.jpeg
 tags: [daha iyi bir iletişim için 7 yöntem]

@@ -2,6 +2,7 @@
 layout: post
 title: "Breastfeeding Strike: My Baby Won't Nurse - Causes and Solutions"
 author: admin
+lang: en
 categories: [Baby Development, Parenting Tips]
 image: assets/images/breastfeeding.jpg
 tags: [Breastfeeding Strike, Breastfeeding Problems in Babies, Reasons for Breast Refusal, Baby Health, Infant Development]

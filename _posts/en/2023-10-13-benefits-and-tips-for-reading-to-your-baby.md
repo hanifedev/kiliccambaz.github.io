@@ -2,6 +2,7 @@
 layout: post
 title:  "Benefits and Tips for Reading to Your Baby"
 author: admin
+lang: en
 categories: [ Baby Development, Parenting ]
 image: assets/images/reading-to-baby.png
 tags: [Reading to Infants, Why Read to Your Baby, Benefits of Reading to Babies, Tips for Reading to Your Baby, Reading with Babies, Encouraging Reading Habits, Baby's Cognitive Development, Reading to Enhance Bonding]

@@ -2,6 +2,7 @@
 layout: post
 title:  "Hikaye Dili: Etkili İletişimin Gücü"
 author: admin
+lang: tr
 categories: [ İletişim ]
 image: assets/images/ozguven.jpeg
 tags: [iletişimde hikaye dili, etkili iletişimde hikaye dilinin önemi]
